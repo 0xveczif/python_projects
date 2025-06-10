@@ -2,7 +2,7 @@ DNS Spoofing is a program to spoof dns entries.
 Modifying every requests manually after intercepting each request will be time consuming, to solve this, we automate it.  
   
 usage - sudo python3 dnsspoof.py eth0  
-  
+  <pre>
 Steps:  
     0. Update target website link and spoofing link in script.  
     1. Forward all packets to our computer  
@@ -25,7 +25,7 @@ Steps:
     6. After completing - flush the rules  
 	1. iptables --flush  
 	2. iptables -t nat -F  
-  
+  </pre>  
 Run the steps following them and we can spoof dns records.  
   
 Requirements - install required libraries. For help, refer tools section

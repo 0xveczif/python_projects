@@ -3,7 +3,8 @@ is a program to replace the download file which target user downloads.
 We can modify what user downloading and we can replace it with file which we want user should downloads, a malicious file.
 Modifying every requests manually after intercepting each request will be time consuming, to solve this, we automate it.  
   
-### usage - sudo python2 dns_spoof.py
+### usage - sudo python2 replace_downloads.py 
+or sudo python replace_downloads.py 
 <pre>
 Steps:  
     0. Update script with required changes - updating host and file to file.  
@@ -21,7 +22,7 @@ Steps:
 	  2. sudo iptables -I INPUT -p tcp --dport 80 -j NFQUEUE --queue-num 0  
        To test in other system, target system  
           1. sudo iptables -I FORWARD -j NFQUEUE --queue-num 0     
-    4. sudo python2 dns_spoof.py
+    4. sudo python2 replace_downloads.py or sudo python replace_downloads.py 
     5. To check if its working  
         1. tcpdump -i eth0 udp port 53  
         2. sudo iptables -L -v -n  

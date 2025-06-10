@@ -1,7 +1,8 @@
-DNS Spoofing is a program to spoof dns entries.  
+### DNS Spoofing
+is a program to spoof dns entries.  
 Modifying every requests manually after intercepting each request will be time consuming, to solve this, we automate it.  
   
-usage - sudo python3 dnsspoof.py eth0  
+### usage - sudo python3 dnsspoof.py eth0  
   <pre>
 Steps:  
     0. Update target website link and spoofing link in script.  

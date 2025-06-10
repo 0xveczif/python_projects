@@ -2,6 +2,10 @@ ARP Spoof is a program in which we target router and target system ip and throug
 We spoof ourself as router to target and target to router by changing MAC addres to ARP table.
 
 usage - sudo python3 arpspoof eth0 ip(router/gateway) ip(target)
+
 Example - sudo python3 arpspoof eth0 10.0.2.1 10.0.2.15
+
+To get gateway ip- route -n
+To get target ip - use network scanner program
 
 Requirements - install required libraries. For help, refer tools section

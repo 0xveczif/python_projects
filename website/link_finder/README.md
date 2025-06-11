@@ -5,7 +5,7 @@ Information Gathering - This program we can use to enumerate inportant links tha
 Usage - sudo python2 link_finder.py
 
 Steps -
-1. Update script with target url to enumerate directories.
+1. Update script with target url.  
 3. execute the program.
 
 Requirements - install required libraries. For help, refer tools section.

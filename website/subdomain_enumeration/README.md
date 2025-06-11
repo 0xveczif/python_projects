@@ -1,6 +1,6 @@
 ### Subdomain Enumeration
 
-This program we can use to enumerate subdomains of website.
+Information Gathering - This program we can use to enumerate subdomains of website.
 
 Usage -  sudo python2 subdomain_enumeration.py 
 

@@ -3,7 +3,7 @@
 <pre>
 
 Introduction and Setup
-	1. Some systems only have or programs written on python2 and need to write or run with python2.
+	1. Some systems only have or programs python2 and need to write or run with python2.
 	2. To run =
 		1. terminal - python hello.py
 		2. python3 hello.py

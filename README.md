@@ -6,6 +6,18 @@ This repository brings together a variety of Python scripts and frameworks craft
 
 ---
 
+## 📂 Contents
+
+- 🐍 Python scripts for penetration testing
+- 🚩 Red teaming automation tools
+- 🕸️ Web application vulnerability scanner
+- 🖧 Network reconnaissance and exploitation modules
+- 📝 Sample reports and write-ups
+
+> All tools are for educational and authorized testing purposes only. Always obtain proper permission before using them on any system.
+
+---
+
 ## 👨‍💻 I'm
 
 Passionate **Security Researcher**.
@@ -27,18 +39,6 @@ Strive to secure the digital world by simulating real-world attack scenarios and
   <img src="https://img.icons8.com/?size=100&id=EeGUdU1g9c98&format=png&color=000000" width="48" alt="SOC"/>
   <img src="https://img.icons8.com/?size=100&id=41078&format=png&color=FD7E14" width="48" alt="Vulnerability Management"/>
 </p>
-
----
-
-## 📂 Contents
-
-- 🐍 Python scripts for penetration testing
-- 🚩 Red teaming automation tools
-- 🕸️ Web application vulnerability scanner
-- 🖧 Network reconnaissance and exploitation modules
-- 📝 Sample reports and write-ups
-
-> All tools are for educational and authorized testing purposes only. Always obtain proper permission before using them on any system.
 
 ---
 

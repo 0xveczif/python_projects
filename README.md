@@ -1,56 +1,56 @@
-# python_projects
+//https://icons8.com/icons
 
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey, nice to see you.</h1>
-# 👨‍💻 Security Researcher Portfolio
+# 🛠️ Ethical Hacking Tools Collection
 
-## About Me
+Welcome to my repository—a curated collection of Python-based tools for **ethical hacking** and **penetration testing**.
+This repository brings together a variety of Python scripts and frameworks crafted for red teaming, vulnerability assessment, and cybersecurity research.
 
-Hi! I'm a passionate **Security Researcher** specializing in:
+---
 
-- **Web Application Security**
-- **Network Security & Penetration Testing**
+## 👨‍💻 I'm
+
+Passionate **Security Researcher**.
 
 With a keen interest in exploring vulnerabilities and securing digital assets, I continuously learn and adapt to the ever-evolving cybersecurity landscape.
+Strive to secure the digital world by simulating real-world attack scenarios and continuously staying up-to-date with the latest threats, exploits, and mitigation techniques.
 
 ---
 
 ## 🔧 Skills & Tools
 
-<table>
-  <tr>
-    <td align="center"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/burpsuite/burpsuite.png" width="48" alt="Burp Suite"/><br>Burp Suite</td>
-    <td align="center"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kali-linux/kali-linux.png" width="48" alt="Kali Linux"/><br>Kali Linux</td>
-    <td align="center"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" width="48" alt="Linux"/><br>Linux</td>
-    <td align="center"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/metasploit/metasploit.png" width="48" alt="Metasploit"/><br>Metasploit</td>
-    <td align="center"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vmware/vmware.png" width="48" alt="VMware"/><br>VMware</td>
-    <td align="center"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/security/security.png" width="48" alt="SOC"/><br>SOC</td>
-    <td align="center"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/security/security.png" width="48" alt="Vulnerability Management"/><br>Vuln. Mgmt</td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" width="48" alt="Linux"/>
+  <img src="https://img.icons8.com/?size=100&id=PW0ChfedZvTh&format=png&color=000000" width="48" alt="Metasploitable"/>
+  <img src="https://img.icons8.com/?size=100&id=qBWtR72kluCU&format=png&color=000000" width="48" alt="Kali Linux"/>
+  <img src="https://img.icons8.com/?size=100&id=FbRY9JkBrjiX&format=png&color=000000" width="48" alt="Burp Suite"/>
+  <img src="https://img.icons8.com/?size=100&id=11220&format=png&color=FA5252" width="48" alt="Metasploit"/>
+  <img src="https://img.icons8.com/?size=100&id=13441&format=png&color=000000" width="48" alt="VMware"/>
+  <img src="https://img.icons8.com/?size=100&id=EeGUdU1g9c98&format=png&color=000000" width="48" alt="SOC"/>
+  <img src="https://img.icons8.com/?size=100&id=41078&format=png&color=FD7E14" width="48" alt="Vulnerability Management"/>
+</p>
 
 ---
 
-## 🛡️ What I Do
+## 📂 Contents
 
-- Conduct **penetration tests** on networks and web applications to identify and exploit vulnerabilities.
-- Perform **vulnerability assessments** and recommend security improvements.
-- Simulate real-world attack scenarios in isolated environments.
-- Collaborate with blue and red teams to enhance organizational security posture.
-- Stay up-to-date with the latest threats, exploits, and mitigation techniques.
+- 🐍 Python scripts for penetration testing
+- 🚩 Red teaming automation tools
+- 🕸️ Web application vulnerability scanner
+- 🖧 Network reconnaissance and exploitation modules
+- 📝 Sample reports and write-ups
+
+> All tools are for educational and authorized testing purposes only. Always obtain proper permission before using them on any system.
 
 ---
 
 ## 📈 Let's Connect
 
-- [LinkedIn](#) <!-- Replace # with your LinkedIn URL -->
-- [Twitter](#) <!-- Replace # with your Twitter or X handle -->
+- [LinkedIn](https://www.linkedin.com/in/vedpvapt/)
 - [Blog/Website](#) <!-- Replace # with your site if available -->
 
 ---
 
 > “Security is a journey, not a destination.”
 
-Feel free to connect with me to discuss cybersecurity, collaborate on projects, or just chat about the latest in infosec!---
-
-
-Repository having my Python projects which created for ethical hacking and penetration testing
+Feel free to connect with me to discuss cybersecurity, collaborate on projects, or just chat about the latest in infosec!

@@ -18,7 +18,7 @@ This repository brings together a variety of Python scripts and frameworks craft
 
 ---
 
-## 👨‍💻 I'm
+## 👨‍💻 I'm   [<img src="https://img.icons8.com/?size=100&id=u7OTIf3GZiw2&format=png&color=000000" width="28" alt="LinkedIn"/>](https://www.linkedin.com/in/vedpvapt/)    [<img src="https://img.icons8.com/?size=100&id=13930&format=png&color=000000" width="28" alt="LinkedIn"/>](https://www.linkedin.com/in/vedpvapt/) 
 
 Passionate **Security Researcher**.
 
@@ -30,22 +30,15 @@ Strive to secure the digital world by simulating real-world attack scenarios and
 ## 🔧 Skills & Tools
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" width="48" alt="Linux"/>
-  <img src="https://img.icons8.com/?size=100&id=PW0ChfedZvTh&format=png&color=000000" width="48" alt="Metasploitable"/>
-  <img src="https://img.icons8.com/?size=100&id=qBWtR72kluCU&format=png&color=000000" width="48" alt="Kali Linux"/>
-  <img src="https://img.icons8.com/?size=100&id=FbRY9JkBrjiX&format=png&color=000000" width="48" alt="Burp Suite"/>
-  <img src="https://img.icons8.com/?size=100&id=11220&format=png&color=FA5252" width="48" alt="Metasploit"/>
-  <img src="https://img.icons8.com/?size=100&id=13441&format=png&color=000000" width="48" alt="VMware"/>
-  <img src="https://img.icons8.com/?size=100&id=EeGUdU1g9c98&format=png&color=000000" width="48" alt="SOC"/>
-  <img src="https://img.icons8.com/?size=100&id=41078&format=png&color=FD7E14" width="48" alt="Vulnerability Management"/>
+  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" width="32" alt="Linux"/>
+  <img src="https://img.icons8.com/?size=100&id=PW0ChfedZvTh&format=png&color=000000" width="32" alt="Metasploitable"/>
+  <img src="https://img.icons8.com/?size=100&id=qBWtR72kluCU&format=png&color=000000" width="32" alt="Kali Linux"/>
+  <img src="https://img.icons8.com/?size=100&id=FbRY9JkBrjiX&format=png&color=000000" width="32" alt="Burp Suite"/>
+  <img src="https://img.icons8.com/?size=100&id=11220&format=png&color=FA5252" width="32" alt="Metasploit"/>
+  <img src="https://img.icons8.com/?size=100&id=13441&format=png&color=000000" width="32" alt="VMware"/>
+  <img src="https://img.icons8.com/?size=100&id=EeGUdU1g9c98&format=png&color=000000" width="32" alt="SOC"/>
+  <img src="https://img.icons8.com/?size=100&id=41078&format=png&color=FD7E14" width="32" alt="Vulnerability Management"/>
 </p>
-
----
-
-## 📈 Let's Connect
-
-- [LinkedIn](https://www.linkedin.com/in/vedpvapt/)
-- [Blog/Website](#) <!-- Replace # with your site if available -->
 
 ---
 

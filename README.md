@@ -36,6 +36,7 @@ Strive to secure the digital world by simulating real-world attack scenarios and
   <img src="https://img.icons8.com/?size=100&id=FbRY9JkBrjiX&format=png&color=000000" width="32" alt="Digital Security"/>
   <img src="https://img.icons8.com/?size=100&id=4Ywlu1XtAw14&format=png&color=000000" width="32" alt="Bug"/>
   <img src="https://img.icons8.com/?size=100&id=11220&format=png&color=FA5252" width="32" alt="Red team"/>
+  <img src="https://img.icons8.com/?size=100&id=61864&format=png&color=000000" width="32" alt="AI"/>
   <img src="https://img.icons8.com/?size=100&id=13441&format=png&color=000000" width="32" alt="python"/>
   <img src="https://img.icons8.com/?size=100&id=EeGUdU1g9c98&format=png&color=000000" width="32" alt="vm"/>
   <img src="https://img.icons8.com/?size=100&id=41078&format=png&color=FD7E14" width="32" alt="burpsuite"/>

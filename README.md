@@ -22,28 +22,9 @@ This repository brings together a variety of Python scripts and frameworks craft
 
 Passionate **Security Researcher**.
 
-With a keen interest in exploring vulnerabilities and securing digital assets, I continuously learn and adapt to the ever-evolving cybersecurity landscape.
+With a keen interest in Red teaming - exploring vulnerabilities and securing digital assets, I continuously learn and adapt to the ever-evolving cybersecurity landscape.
 Strive to secure the digital world by simulating real-world attack scenarios and continuously staying up-to-date with the latest threats, exploits, and mitigation techniques.
-
----
-
-## 🔧 Skills & Tools
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" width="32" alt="Linux"/>
-  <img src="https://img.icons8.com/?size=100&id=PW0ChfedZvTh&format=png&color=000000" width="32" alt="Metasploit"/>
-  <img src="https://img.icons8.com/?size=100&id=qBWtR72kluCU&format=png&color=000000" width="32" alt="Kali Linux"/>
-  <img src="https://img.icons8.com/?size=100&id=FbRY9JkBrjiX&format=png&color=000000" width="32" alt="Digital Security"/>
-  <img src="https://img.icons8.com/?size=100&id=4Ywlu1XtAw14&format=png&color=000000" width="32" alt="Bug"/>
-  <img src="https://img.icons8.com/?size=100&id=11220&format=png&color=FA5252" width="32" alt="Red team"/>
-  <img src="https://img.icons8.com/?size=100&id=61864&format=png&color=000000" width="32" alt="AI"/>
-  <img src="https://img.icons8.com/?size=100&id=13441&format=png&color=000000" width="32" alt="python"/>
-  <img src="https://img.icons8.com/?size=100&id=EeGUdU1g9c98&format=png&color=000000" width="32" alt="vm"/>
-  <img src="https://img.icons8.com/?size=100&id=41078&format=png&color=FD7E14" width="32" alt="burpsuite"/>
-</p>
-
----
 
 > “Security is a journey, not a destination.”
 
-Feel free to connect with me to discuss cybersecurity, collaborate on projects, or just chat about the latest in infosec!
+Feel free to [Connect with me](https://0xveczif.github.io/portfolio) to discuss cybersecurity, collaborate on projects, or just chat about the latest in infosec!
